@@ -142,9 +142,6 @@ src/main/resources/
 
 ## 👨‍💻 Authors
 
-**Priyansi Sahoo**  
-**Nikita**  
-**Kumar Piyush**  
 **Priyanshu Kumar Singh**
 
 ## 📄 License
